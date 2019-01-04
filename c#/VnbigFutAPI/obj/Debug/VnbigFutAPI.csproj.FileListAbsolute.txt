@@ -1,0 +1,6 @@
+D:\统领项目\VnbigFutAPI\VnbigFutAPI\bin\Debug\VnbigFutAPI.exe.config
+D:\统领项目\VnbigFutAPI\VnbigFutAPI\bin\Debug\VnbigFutAPI.exe
+D:\统领项目\VnbigFutAPI\VnbigFutAPI\bin\Debug\VnbigFutAPI.pdb
+D:\统领项目\VnbigFutAPI\VnbigFutAPI\obj\Debug\VnbigFutAPI.csprojResolveAssemblyReference.cache
+D:\统领项目\VnbigFutAPI\VnbigFutAPI\obj\Debug\VnbigFutAPI.exe
+D:\统领项目\VnbigFutAPI\VnbigFutAPI\obj\Debug\VnbigFutAPI.pdb

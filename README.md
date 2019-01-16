@@ -24,6 +24,7 @@ VNBIG接口是提供服务的基础，开发者在VNBIG网站创建账号后，�
 * [开启API](/doc/chapter2.md)
 * [参数签名](/doc/chapter3.md)
 * [更新日志](/doc/chapter4.md)
+
 REST API
 * [开始使用](/doc/chapter5.md)
 * [请求交互](/doc/chapter6.md)

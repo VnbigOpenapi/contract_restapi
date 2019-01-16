@@ -19,7 +19,7 @@ VNBIG接口是提供服务的基础，开发者在VNBIG网站创建账号后，�
 
 如果您在使用过程中遇到任何问题，请联系API技术讨论QQ群： 774185245，我们将在第一时间为您做出解答。
 # *合约API目录* #
-* [合约API概述](README.md)
+* [合约API概述](../doc/README.md)
 * [调用模式](chapter1.md)
 * [开启API](chapter2.md)
 * [参数签名](chapter3.md)

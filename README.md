@@ -1,11 +1,13 @@
 # *contract_restapi* #
 合约的客户端调用接口说明，目前只提供C# 、Java、NodeJs、Python
- 模拟环境地址：
-  open api：https://democontract.vnbig.com/openweb
-  open socket：wss://demoopensocket.vnbig.com
- 正式环境：
-  open api：https://contract.vnbig.com/openweb
-  open socket：wss://prodopensocket.vnbig.com
+ 模拟环境地址：  
+   open api：https://democontract.vnbig.com/openweb  
+   open socket：wss://demoopensocket.vnbig.com
+ 
+ 正式环境：  
+   open api：https://contract.vnbig.com/openweb  
+   open socket：wss://prodopensocket.vnbig.com
+
 # *合约API概述* #
 
 VNBIG为用户提供了一整套简单而又强大的开发工具，旨在帮助用户快速、高效地将VNBIG交易功能整合到自己的应用当中。
